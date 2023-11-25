@@ -1,0 +1,62 @@
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.AssemblyReference.cache
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadConsultas.resources
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.Properties.Resources.resources
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.GenerateResource.cache
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.AssemblyInfoInputs.cache
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.AssemblyInfo.cs
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.CoreCompileInputs.cache
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.exe
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.deps.json
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.runtimeconfig.json
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.pdb
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.CopyComplete
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\refint\Cadastro Hospitalar.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.pdb
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.genruntimeconfig.cache
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\ref\Cadastro Hospitalar.dll
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadPac.resources
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadDoc.resources
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadUnidade.resources
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.AcessarConsultas.resources
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadFunc.resources
+C:\Users\Lisianto\source\repos\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.Menu.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.exe
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.deps.json
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.runtimeconfig.json
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\Cadastro Hospitalar.pdb
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.AssemblyReference.cache
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.AcessarConsultas.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadConsultas.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadDoc.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadFunc.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadPac.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.CadUnidade.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.Menu.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro_Hospitalar.Properties.Resources.resources
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.GenerateResource.cache
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.AssemblyInfoInputs.cache
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.AssemblyInfo.cs
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.CoreCompileInputs.cache
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.csproj.CopyComplete
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\refint\Cadastro Hospitalar.dll
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.pdb
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\Cadastro Hospitalar.genruntimeconfig.cache
+C:\Users\Lisianto\Desktop\Cadastro Hospitalar\Cadastro Hospitalar\obj\Debug\net6.0-windows\ref\Cadastro Hospitalar.dll
